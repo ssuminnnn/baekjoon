@@ -3,7 +3,7 @@
 #include <string.h> // strcspn 함수 사용을 위해 추가
 
 int main(void) {
-    char arr[257];
+    char arr[257]; //글자의 개수 255 + NULL + \n -> 255+1+1=257
      int count = 0;  // 모음의 개수를 저장할 변수
     while (1) {
        
