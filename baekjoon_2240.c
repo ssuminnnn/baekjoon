@@ -1,4 +1,4 @@
-//baekjoon 2240 별찍기-3
+//baekjoon 2240 별찍기-3 25.01.24.
 #include<stdio.h>
 int main(void)
 {
