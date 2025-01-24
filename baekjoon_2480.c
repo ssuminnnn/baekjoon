@@ -1,4 +1,4 @@
-//  baekjoon_2480 주사위 세개
+//  baekjoon_2480 주사위 세개 25.01.24.
 #include <stdio.h>
 int main(void)
 {
