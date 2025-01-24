@@ -1,4 +1,4 @@
-//  baekjoon_2480v 주사위 세개
+//  baekjoon_2480 주사위 세개
 #include <stdio.h>
 int main(void)
 {
